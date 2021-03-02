@@ -12,7 +12,16 @@ Labtainers provide controlled and consistent execution environments in which stu
 
 Labtainers includes over 50 lab exercises summarized here.   The framework is free and open, making it easy for educators to create and share their own Labtainer exercises.  Please refer to the Lab Designer User Guide for details on using the framework to create and adapt lab exercises.  Labtainers code and data is managed on GitHub.  Consider contributing your new labs via GitHub pull requests.
 
-Labtainer Student and Instructor Downloads
+1. VM para Virtual Box:     https://nps.edu/web/c3o/virtual-machine-images
+2. Guia do estudante:       https://github.com/mfthomps/Labtainers/raw/master/docs/student/labtainer-student.pdf
+3. Manual dos laboratórios  https://github.com/mfthomps/Labtainers/releases/latest/download/labtainer_pdf.zip
+
+
+Conteúdo de laboratórios disponíveis na VM
+
+Com a VM aberta rodar o seguinte comando:
+1 $  labtainer <lab>    // labtainer bufoverflow
+2 
 
 |              | Software Vulnerabilities                                                                         |            |
 |--------------|--------------------------------------------------------------------------------------------------|------------|
