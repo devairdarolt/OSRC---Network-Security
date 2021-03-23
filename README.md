@@ -1,3 +1,6 @@
+Exercícios: https://github.com/devairdarolt/OSRC---Network-Security/tree/master/trunk/labs
+
+
 # OSRC---Network-Security
 Aulas de Segurança de Redes com professor rafael obelheiro
 https://nps.edu/web/c3o/labtainers
