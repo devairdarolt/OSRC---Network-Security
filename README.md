@@ -1,6 +1,3 @@
-Exercícios: https://github.com/devairdarolt/OSRC---Network-Security/tree/master/trunk/labs
-
-
 # OSRC---Network-Security
 Aulas de Segurança de Redes com professor rafael obelheiro
 https://nps.edu/web/c3o/labtainers
@@ -23,8 +20,10 @@ Labtainers includes over 50 lab exercises summarized here.   The framework is fr
 Conteúdo de laboratórios disponíveis na VM
 
 Com a VM aberta rodar o seguinte comando:
-1 $  labtainer <lab>    // labtainer bufoverflow
-2 
+1 \$  labtainer \<lab\>    
+2 \$  labtainer bufoverflow
+
+Lista: https://github.com/devairdarolt/OSRC---Network-Security/tree/master/trunk/labs
 
 |              | Software Vulnerabilities                                                                         |            |
 |--------------|--------------------------------------------------------------------------------------------------|------------|
